@@ -1,0 +1,43 @@
+*{
+  margin:0%;
+  padding: 0%;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main{
+  border-radius: 18px;
+  margin-top: 40vh;
+  text-align: center;
+  display: inline-block;
+  border:2px solid black;
+}
+.tbody{
+  border-top:1px solid rgb(185, 185, 185);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.thead{
+  width: 400px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.tr-div{
+  width: 50vh;
+text-align: center;
+display: flex;
+justify-content: space-evenly;
+
+}
+.vernagir{
+  font-size: 20px;
+}
+
+.name{
+  color: white;
+}
