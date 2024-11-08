@@ -22,7 +22,9 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-
+.tfoot{
+color: red;
+}
 .thead {
   width: 400px;
   height: 140px;
