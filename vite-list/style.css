@@ -44,9 +44,17 @@ body {
   font-size: 20px;
 }
 
-.name {
-  color: white;
+.list-div{
+  font-size: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
+
+/* .name {
+
+} */
+
 
 
 .button-6 {
