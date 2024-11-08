@@ -12,10 +12,11 @@ function addRow() {
 
     x.innerHTML = name;
     y.innerHTML = gin;
-
-
-    x.classLiist.add("name")
-    y.classLiist.add("cost")
+    
+    
+    str.classList.add("list-div")
+    x.classList.add("name")
+    y.classList.add("cost")
   }
 }
 function deleteRow() {
