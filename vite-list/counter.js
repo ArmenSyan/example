@@ -18,3 +18,7 @@ function addRow() {
     y.classLiist.add("cost")
   }
 }
+function deleteRow() {
+  let tbody = document.getElementsByClassName("tbody")[0];
+  tbody.removeChild(tbody.lastChild);
+}
