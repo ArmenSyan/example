@@ -12,8 +12,8 @@ function addRow() {
 
     x.innerHTML = name;
     y.innerHTML = gin;
-    
-    
+
+
     str.classList.add("list-div")
     x.classList.add("name")
     y.classList.add("cost")
